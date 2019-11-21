@@ -1,4 +1,5 @@
 +++
+## more examples found here: https://about.okkur.org/syna/fragments/
 fragment = "contact"
 #disabled = true
 date = "2017-09-10"
