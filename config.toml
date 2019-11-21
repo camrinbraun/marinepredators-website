@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "/"
+baseurl = "depts.washington.edu/marinepredators"
 languageCode = "en-us"
-title = "Okkur - Syna"
+title = "Marine Predators Group"
 theme = "syna"
 enableGitInfo = true
 version = "0.15.2"
@@ -46,7 +46,8 @@ lastmod = ["lastmod", ":git", "date"]
     pro = false
 
   [params.colors]
-    primary = "#00838F"
+    #primary = "#00838F"
+    primary = "#0145B1"
     secondary = "#868e96"
     success = "#008f54"
     info = "#00c9dc"
@@ -58,20 +59,31 @@ lastmod = ["lastmod", ":git", "date"]
 # main/prepend/postpend menus are displayed in nav fragment.
 # Keep an eye out for updates. These will be moved out to make navbar more
 # configurable.
-[[menu.main]]
-  url = "/"
-  name = "Home"
-  weight = 10
 
 [[menu.main]]
-  url = "/about"
-  name = "About Us"
+  url = "#items"
+  name = "Research"
+  weight = 10
+ 
+[[menu.main]]
+  url = "#member"
+  name = "People"
   weight = 20
 
 [[menu.main]]
-  url = "#contact"
-  name = "Contact"
+  url = "/publications"
+  name = "Publications"
   weight = 30
+
+[[menu.main]]
+  url = "/prospectives"
+  name = "Prospective Students"
+  weight = 40
+
+[[menu.main]]
+  url = "#copyright"
+  name = "Contact"
+  weight = 50
 
 [[menu.footer]]
   url = "#"

@@ -5,12 +5,14 @@ date = "2016-09-07"
 weight = 1
 background = "light" # can influence the text color
 particles = false
+minHeight = "800px"
 
-title = "Marine Predators Group"
-subtitle = "Science and stuff"
+#title_page = true
+#title = "Marine Predators Group"
+#subtitle = "Science and stuff"
 
 [header]
-  image = "perpetual_ocean.png"
+  image = "header_text.jpg"
 #  height = "200px""
 
 #[asset]
