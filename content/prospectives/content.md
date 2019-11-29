@@ -9,7 +9,11 @@ title = "Prospective group members"
 #subtitle = ""
 +++
 
-Thanks for your interest in joining the MPG. The information provided here is intended to give you an idea of the qualities I look for in graduate students, and my general expectations for students in my lab.
+Students in my lab usually have skills in oceanography, fish ecology, and programming. If you are interested in joining my lab, please send me an email with (1) your CV, (2) unofficial transcripts, (3) a couple of paragraphs about your research interests and career goals (non-academic is ok), and (4) a recent written example of your work. I will make decisions about incoming students during Jan-Feb of the year of admission.
+
+
+
+Thanks for your interest in joining the MPG. The following information is intended to give you an idea of the qualities I (and many of my colleagues) look for in graduate students, and our general expectations for students in the lab.
 
 <h3>Qualities</h3>
 

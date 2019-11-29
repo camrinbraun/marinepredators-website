@@ -17,7 +17,7 @@ scope = [
 #  url = "#"
 
 [asset]
-  image = "hugegopher.png"
+  image = "emmett.png"
 +++
 
-Emmett is a Master’s of Environmental Science Candidate at the Yale School of Forestry & Environmental Studies. Prior to joining the FES community, Emmett worked as a performer on several DARPA programs under the Information Innovation Office (I2O), where he contributed to research efforts in computer science and statistics. He is currently working on a project that seeks to understand land use segmentation in Beijing through the analysis of social media data.
+Emmett is a graduate student at Yale University where he is studying machine learning and computational marine science. Prior to attending Yale, Emmett worked as a performer on several DARPA programs under the Information Innovation Office (I2O), where he contributed to research efforts in computer science and counter intelligence. He is currently researching the use of non-linear dimensionality reduction algorithms as a method for taxonomic subtyping of plankton based on in-situ imagery. In the Marine Predator Group, he is collaborating with NASA JPL to deploy open-source backend software for the standardization and centralization of marine animal telemetry data. 

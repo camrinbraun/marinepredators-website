@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "depts.washington.edu/marinepredators"
+baseurl = "https://depts.washington.edu/marinepredators"
 languageCode = "en-us"
 title = "Marine Predators Group"
 theme = "syna"
@@ -17,8 +17,8 @@ date = ["date", "lastmod"]
 lastmod = ["lastmod", ":git", "date"]
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "Marine Predators Group"
+  description = "Research group at University of Washington"
 
   [params.style]
     #background = "secondary"
@@ -100,24 +100,24 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Tiny Link"
   weight = 30
 
-[[menu.copyright_footer]]
-  url = "/about"
-  name = "About Us"
-  weight = 10
+#[[menu.copyright_footer]]
+#  url = "/about"
+#  name = "About Us"
+#  weight = 10
 
-[[menu.copyright_footer]]
-  url = "#"
-  name = "Another Link"
-  weight = 30
+#[[menu.copyright_footer]]
+#  url = "mailto:marinepredators@uw.edu"
+#  name = "Contact"
+#  weight = 30
 
-[[menu.footer_social]]
-  weight = 20
-  name = "facebook"
-  pre = "fab fa-facebook-f"
-  url = "#"
+#[[menu.footer_social]]
+#  weight = 20
+#  name = "facebook"
+#  pre = "fab fa-facebook-f"
+#  url = "#"
 
-[[menu.footer_social]]
-  weight = 30
-  name = "linkedin"
-  pre = "fab fa-linkedin-in"
-  url = "#"
+#[[menu.footer_social]]
+#  weight = 30
+#  name = "linkedin"
+#  pre = "fab fa-linkedin-in"
+#  url = "#"
